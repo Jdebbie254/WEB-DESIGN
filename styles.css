@@ -7,18 +7,22 @@ body{
     margin: 0;
     padding: 0;
 }
+
 h2{
     font-weight: bolder;
     margin-bottom: 10px;
 }
+
 p{
     margin-bottom: 10px;
 }
+
 a{
     color: azure;
     text-decoration: none;
     transition: 0.3s;
 }
+
 a:hover{
     background-color: yellow;
 }
